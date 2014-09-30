@@ -1,4 +1,4 @@
-media
+Media
 =====
 
-Photos, screenshots, etc
+Photos, screenshots, κλπ που θα χρειαστούν για το installation του openeclass.
